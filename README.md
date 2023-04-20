@@ -1,2 +1,2 @@
 # hello-world-manju
-Training
+Training on GitHub
